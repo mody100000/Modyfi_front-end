@@ -1,0 +1,70 @@
+.header {
+  display: flex;
+  margin: 2rem;
+}
+.photo-header {
+  width: 60%;
+  position: relative;
+  height: 90vh;
+}
+.header .space {
+  width: 4%;
+}
+.photo-header h1 {
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translateX(-50%) translateY(-50%);
+  color: rgb(236, 75, 0);
+  opacity: 0.9;
+  font-size: 8rem;
+  font-weight: bold;
+  letter-spacing: 0.2rem;
+}
+.photo-header img {
+  width: 100%;
+  height: 100%;
+  object-fit: cover;
+}
+
+.link-header {
+  width: 36%;
+  background-color: rgb(236, 75, 0);
+  color: white;
+  display: flex;
+  align-items: center;
+  height: 90vh;
+}
+.link-header a {
+  color: black;
+  font-weight: bolder;
+  font-size: 4rem;
+  margin-left: 8px;
+}
+.link-header a::after {
+  content: url("../svg/arrow.svg");
+  display: inline-block;
+}
+.link-header a:hover {
+  text-decoration: none;
+  color: black;
+}
+@media screen and (max-width: 900px) {
+  .photo-header h1 {
+    font-size: 6rem;
+  }
+  .header {
+    flex-direction: column;
+  }
+  .photo-header {
+    width: 100%;
+  }
+  .link-header {
+    width: 100%;
+  }
+}
+@media screen and (max-width: 600px) {
+  .photo-header h1 {
+    font-size: 3rem;
+  }
+}
