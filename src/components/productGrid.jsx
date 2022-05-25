@@ -2,26 +2,23 @@ import { Link } from "react-router-dom";
 import Like from "../common/like";
 const ProductsGrid = ({ products, getCategory, getImage, handleLike }) => {
   return (
-    <div className="grid grid-cols-2 md:grid-cols-3 gap-4 py-4">
+    <div className="grid grid-cols-2 gap-4 py-4 md:grid-cols-3">
       {products.map((p) => (
-        <div className="card bg-base-100 shadow-md hover:shadow-xl duration-300 ease-in-out">
+        <div className="duration-300 ease-in-out shadow-md card bg-base-100 hover:shadow-xl">
           <Link to={`/products/${p.id}`} key={p.id}>
             <figure>
               <img
-                src={
-                  `http://localhost:5000/uploads/products-images/` +
-                  getImage(33)
-                }
+                src={`http://localhost:5000/uploads/products-images/${p.img_name}`}
                 alt="product image"
-                className="h-80 w-full object-cover"
+                className="object-cover w-full h-80"
               />
             </figure>
           </Link>
 
           <div className="card-body">
             <h2 className="card-title">{p.name}</h2>
-            <div className="card-actions justify-between">
-              <span className="bg-primary rounded-lg text-2xl py-1 px-3 text-white border-none">
+            <div className="justify-between card-actions">
+              <span className="px-3 py-1 text-2xl text-white border-none rounded-lg bg-primary">
                 {p.price} $
               </span>
               <Like liked={p.liked} onClick={() => handleLike(p)} />

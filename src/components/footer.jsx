@@ -9,7 +9,7 @@ const Footer = () => {
       <div className="container px-6 pt-6">
         <div className="flex justify-center mb-6">
           <a
-            href="#!"
+            href="https://www.facebook.com/mega.moda.9/"
             type="button"
             className="rounded-full border-2 border-white text-white leading-normal uppercase hover:bg-black hover:bg-opacity-5 focus:outline-none focus:ring-0 transition duration-150 ease-in-out w-9 h-9 m-1"
           >
@@ -31,7 +31,7 @@ const Footer = () => {
           </a>
 
           <a
-            href="#!"
+            href="https://twitter.com/mody10000s"
             type="button"
             className="rounded-full border-2 border-white text-white leading-normal uppercase hover:bg-black hover:bg-opacity-5 focus:outline-none focus:ring-0 transition duration-150 ease-in-out w-9 h-9 m-1"
           >
@@ -75,7 +75,7 @@ const Footer = () => {
           </a>
 
           <a
-            href="#!"
+            href="https://www.instagram.com/m.anamody/"
             type="button"
             className="rounded-full border-2 border-white text-white leading-normal uppercase hover:bg-black hover:bg-opacity-5 focus:outline-none focus:ring-0 transition duration-150 ease-in-out w-9 h-9 m-1"
           >
@@ -97,7 +97,7 @@ const Footer = () => {
           </a>
 
           <a
-            href="#!"
+            href="https://www.linkedin.com/in/mahmoud-mohamed-5a80a01b4/"
             type="button"
             className="rounded-full border-2 border-white text-white leading-normal uppercase hover:bg-black hover:bg-opacity-5 focus:outline-none focus:ring-0 transition duration-150 ease-in-out w-9 h-9 m-1"
           >
@@ -119,7 +119,7 @@ const Footer = () => {
           </a>
 
           <a
-            href="#!"
+            href="https://github.com/mody100000"
             type="button"
             className="rounded-full border-2 border-white text-white leading-normal uppercase hover:bg-black hover:bg-opacity-5 focus:outline-none focus:ring-0 transition duration-150 ease-in-out w-9 h-9 m-1"
           >
