@@ -1,70 +1,12 @@
-# Getting Started with Create React App
-
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
-
-## Available Scripts
-
-In the project directory, you can run:
-
-### `npm start`
-
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
-
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
-
-### `npm test`
-
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
-
-### `npm run build`
-
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
-
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
-
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
-
-### `npm run eject`
-
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
-
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
-
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
-
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
-
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
-
-### Code Splitting
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
-
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+![Screenshot (47)](https://github.com/mody100000/Modyfi_front-end/assets/69405482/48021735-2a11-438c-b0ee-70b52809f592)
+![Screenshot (74)](https://github.com/mody100000/Modyfi_front-end/assets/69405482/7b0d4352-2f2c-4849-ba73-231e6341351a)
+![Screenshot (72)](https://github.com/mody100000/Modyfi_front-end/assets/69405482/9aa993d5-d0a1-4443-bf03-708818c3ca4d)
+![Screenshot (71)](https://github.com/mody100000/Modyfi_front-end/assets/69405482/c1c22dbf-9bb6-4a02-8044-48339f8710cb)
+![Screenshot (70)](https://github.com/mody100000/Modyfi_front-end/assets/69405482/4b933ad3-d34f-4665-bb33-459e23994a25)
+![Screenshot (55)](https://github.com/mody100000/Modyfi_front-end/assets/69405482/d509eb89-8fd5-4b79-ac9e-5e7bfcb94376)
+![Screenshot (54)](https://github.com/mody100000/Modyfi_front-end/assets/69405482/bb98dbfc-d32a-4c4d-bbcd-101c5cc24292)
+![Screenshot (53)](https://github.com/mody100000/Modyfi_front-end/assets/69405482/75aa48d5-4f09-4f9c-bd14-937cf962235e)
+![Screenshot (52)](https://github.com/mody100000/Modyfi_front-end/assets/69405482/619c6731-6461-49ad-b10e-323ea5bfdb85)
+![Screenshot (51)](https://github.com/mody100000/Modyfi_front-end/assets/69405482/92fe0f9d-1448-4ca3-958c-1dea0790fab1)
+![Screenshot (50)](https://github.com/mody100000/Modyfi_front-end/assets/69405482/7e4b25c4-fa4d-44d9-89cb-90fd74a5bc92)
+![Screenshot (49)](https://github.com/mody100000/Modyfi_front-end/assets/69405482/cd77f304-6c84-47da-9589-1d8c3e0fb34e)
